@@ -21,17 +21,22 @@ I have taught HTML, CSS, TailwindCSS, JavaScript, React.js, PHP, MySQL, MongoDB,
 - Git & GitHub
 - Node.js
 - Express.js
+- Mongo DB
 - PHP
 - MySQL
 
 ## Projects
+- 🔹 AI-Resume Analyzer
+- 🔹 Tarun AI (Gemini API Used)
+- 🔹 Real-Time Chatbot App 
 - 🔹 Carty Website 
 - 🔹 Portfolio Website  
 - 🔹 Auth System 
 
 ## Currently Learning
 - DSA in JavaScript  
-- Backend with Node & Express  
+- Backend with Node & Express 
+- AI Prompts
 
 ## Connect with me
 - LinkedIn: https://www.linkedin.com/in/tarun-tyagi-tt001
